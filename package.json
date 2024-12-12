@@ -1,7 +1,7 @@
 {
   "name": "drum",
   "version": "0.1.0",
-  "homepage":"https://michael-s-w.github.io/drum/",
+  "homepage":"https://michael-s-w.github.io/drum-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
